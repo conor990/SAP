@@ -1,4 +1,4 @@
-##creating a docker network
+##  creating a docker network
 docker network create the_network
 
 ## mySQL docker image running
